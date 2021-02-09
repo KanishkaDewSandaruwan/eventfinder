@@ -1,0 +1,13 @@
+#headText{
+    font-family: "Times New Roman", Times, serif;
+    color: maroon;
+    margin-bottom: 30px;
+    font-size: 32px;
+    text-transform: uppercase;
+}
+#login{
+    font-family: "Times New Roman", Times, serif;
+}
+#footer{
+    margin-top: 20%;
+}
